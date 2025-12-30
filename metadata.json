@@ -1,0 +1,7 @@
+{
+  "name": "Fingertip Magic 3D",
+  "description": "Mouse-controlled 3D particle effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
