@@ -67,7 +67,7 @@ export default function App() {
   };
 
   return (
-    <div className="relative w-full h-full bg-black overflow-hidden select-none font-sans">
+    <div className="relative w-full h-screen bg-black overflow-hidden select-none font-sans">
       
       {/* Webcam Input (Hidden) */}
       <WebcamHandler onGestureUpdate={handleGestureUpdate} onCameraReady={() => {}} />
